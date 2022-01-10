@@ -1,0 +1,2 @@
+C:\Users\Paratopic CEO\Desktop\roboticMoveIn2D\x64\Debug\roboticMoveIn2D.exe
+D:\Cpp projects\roboticMoveIn2D\x64\Debug\roboticMoveIn2D.exe
